@@ -1,2 +1,2 @@
-rootProject.name = "MediaCodecExample"
+include ':library-client-rtsp'
 include ':app'
